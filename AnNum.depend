@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1519629245 source:c:\users\user\documents\cpp files\annum\annum\main.cpp
+	<cstdlib>
+	<iostream>
+	<limits>
+	<conio.h>
+	<iomanip>
+	<cmath>
+	<fstream>
+	<cstring>
+	"fparser.hh"
+	<windows.h>
+
+1433683569 c:\users\user\documents\cpp files\annum\annum\fparser.hh
+	<string>
+	<vector>
+	<iostream>
+	<complex>
+
+1433683569 source:c:\users\user\documents\cpp files\annum\annum\fparser.cc
+	"fpconfig.hh"
+	"fparser.hh"
+	<set>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<cmath>
+	<cassert>
+	<limits>
+	"extrasrc/fptypes.hh"
+	"extrasrc/fpaux.hh"
+	"extrasrc/fp_identifier_parser.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	<iomanip>
+	<sstream>
+
+1433683569 c:\users\user\documents\cpp files\annum\annum\fpconfig.hh
+
+1433683596 source:c:\users\user\documents\cpp files\annum\annum\fpoptimizer.cc
+	"fpconfig.hh"
+	"fparser.hh"
+	"extrasrc/fptypes.hh"
+	"extrasrc/fpaux.hh"
+	<stdint.h>
+	<utility>
+	<stdint.h>
+	<vector>
+	<utility>
+	<iostream>
+	<vector>
+	<utility>
+	<iostream>
+	<string>
+	<string>
+	<sstream>
+	<assert.h>
+	<iostream>
+	<vector>
+	<utility>
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	<vector>
+	<map>
+	<algorithm>
+	<limits>
+	<list>
+	<algorithm>
+	<sstream>
+	<string>
+	<map>
+	<set>
+	<iostream>
+	<cctype>
+	<algorithm>
+	<stdio.h>
+	<algorithm>
+	<map>
+	<sstream>
+	<algorithm>
+	<assert.h>
+	<cstring>
+	<cmath>
+	<memory>
+	<algorithm>
+	<assert.h>
+	<sstream>
+	<cstring>
+	<list>
+	<algorithm>
+	<cmath>
+	<list>
+	<cassert>
+	<cmath>
+	<cassert>
+	<algorithm>
+	<assert.h>
+	<cstdio>
+
+1433683569 c:\users\user\documents\cpp files\annum\annum\extrasrc\fptypes.hh
+	"../fpconfig.hh"
+	<cstring>
+	<map>
+	<vector>
+
+1433683569 c:\users\user\documents\cpp files\annum\annum\extrasrc\fpaux.hh
+	"fptypes.hh"
+	<cmath>
+	"mpfr/MpfrFloat.hh"
+	"mpfr/GmpInt.hh"
+	<complex>
+
+1352615178 c:\users\user\documents\cpp files\annum\annum\extrasrc\fp_identifier_parser.inc
+
+1433683603 c:\users\user\documents\cpp files\annum\annum\extrasrc\fp_opcode_add.inc
+
